@@ -17,6 +17,13 @@ python3 -m http.server 8080 --directory build/icml-ai-ac-blog
 
 Then open `http://localhost:8080/site/`.
 
+For the compact top-five ranking, open `http://localhost:8080/site/#top5`.
+The Top 5 tab shows full paper titles, first-author credits, original paper
+previews, and human presentation tiers. `site/assets/ai-awards-top5.png` is the
+ready-to-share screenshot of that frozen ranking, also linked from the tab.
+If its content or layout changes, refresh the PNG from the `#top-five-graphic`
+figure, excluding the navigation and download link.
+
 For development, the committed source can also be served directly:
 
 ```bash

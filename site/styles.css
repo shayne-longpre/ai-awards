@@ -2152,3 +2152,152 @@ a {
 
 .within-row.is-model .within-value { fill: var(--teal); }
 .within-row.is-human .within-value { fill: var(--red-dark); }
+
+/* A compact, self-contained graphic for the frozen top-five ranking. */
+.top-five-graphic {
+  width: min(1000px, calc(100% - 32px));
+  margin: 16px auto 0;
+  padding: 26px 32px 18px;
+  border-top: 5px solid var(--red);
+  background: var(--paper);
+  letter-spacing: 0;
+}
+
+.top-five-eyebrow {
+  margin: 0 0 8px;
+  color: var(--red-dark);
+  font-size: 13px;
+  font-weight: 750;
+  text-transform: uppercase;
+}
+
+.top-five-header h1 {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 38px;
+  font-weight: 500;
+  line-height: 1.15;
+}
+
+.top-five-context {
+  margin: 10px 0 18px;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.top-five-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--ink);
+}
+
+.top-five-row {
+  display: grid;
+  grid-template-columns: 52px 64px minmax(0, 1fr);
+  align-items: center;
+  gap: 22px;
+  min-height: 101px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+  text-decoration: none;
+}
+
+.top-five-row:hover .top-five-paper-title {
+  color: var(--red-dark);
+}
+
+.top-five-row:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 3px;
+}
+
+.top-five-rank {
+  color: var(--red-dark);
+  font-size: 38px;
+  font-weight: 750;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+
+.top-five-preview {
+  display: block;
+  width: 64px;
+  height: 80px;
+  object-fit: contain;
+  border: 1px solid var(--line);
+  background: white;
+}
+
+.top-five-paper-title {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 650;
+  line-height: 1.22;
+  overflow-wrap: anywhere;
+}
+
+.top-five-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 2px 16px;
+  margin-top: 7px;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.top-five-tier {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.top-five-tier-oral { color: var(--red-dark); }
+.top-five-tier-spotlight { color: var(--teal); }
+
+.top-five-footer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+  padding-top: 14px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+.top-five-footer p { margin: 0; }
+.top-five-footer a { text-decoration: none; }
+
+.top-five-actions {
+  width: min(936px, calc(100% - 64px));
+  margin: 4px auto 24px;
+  text-align: right;
+  font-size: 13px;
+  text-underline-offset: 3px;
+}
+
+@media (max-width: 700px) {
+  .top-five-graphic {
+    width: 100%;
+    margin-top: 10px;
+    padding: 16px 16px 12px;
+  }
+  .top-five-header h1 { font-size: 28px; }
+  .top-five-eyebrow { font-size: 11px; }
+  .top-five-context { font-size: 12px; margin-bottom: 12px; }
+  .top-five-row {
+    grid-template-columns: 30px 46px minmax(0, 1fr);
+    gap: 12px;
+    min-height: 90px;
+  }
+  .top-five-rank { font-size: 26px; }
+  .top-five-preview { width: 46px; height: 62px; }
+  .top-five-paper-title { font-size: 17px; }
+  .top-five-meta { gap: 2px 10px; font-size: 12px; margin-top: 5px; }
+  .top-five-tier { font-size: 11px; }
+  .top-five-footer { font-size: 11px; }
+}

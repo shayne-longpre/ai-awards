@@ -16,6 +16,7 @@
       <nav class="view-tabs" aria-label="Report views">
         <button class="view-tab is-active" type="button" data-view="story">The experiment</button>
         <button class="view-tab" type="button" data-view="awards">AI awards</button>
+        <button class="view-tab" type="button" data-view="top5">Top 5</button>
       </nav>
       <a class="repo-link" href="https://github.com/shayne-longpre/icml-ai-ac" target="_blank" rel="noreferrer">
         Repository
@@ -572,6 +573,23 @@
           </p>
           <button class="text-action" type="button" data-go-story>Read the experiment</button>
         </footer>
+      </section>
+      <section id="top5-view" class="view" data-view-panel="top5" hidden>
+        <figure id="top-five-graphic" class="top-five-graphic" aria-labelledby="top-five-title">
+          <header class="top-five-header">
+            <p class="top-five-eyebrow">The AI Awards / ICML 2026</p>
+            <h1 id="top-five-title">The five papers AI ranked highest</h1>
+            <p id="top-five-context" class="top-five-context"></p>
+          </header>
+          <ol id="top-five-list" class="top-five-list"></ol>
+          <figcaption class="top-five-footer">
+            <p>Independent research experiment. Not official ICML awards.</p>
+            <a href="https://shayne-longpre.github.io/ai-awards/">shayne-longpre.github.io/ai-awards</a>
+          </figcaption>
+        </figure>
+        <div class="top-five-actions">
+          <a href="assets/ai-awards-top5.png" download="ai-awards-top5.png">Download PNG</a>
+        </div>
       </section>
     </main>
 

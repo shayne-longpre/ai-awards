@@ -777,6 +777,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 1,
       "paperId": "61082",
       "title": "Spurious Rewards: Rethinking Training Signals in RLVR",
+      "firstAuthor": "Rulin Shao",
       "primaryClass": "analysis_position",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -811,6 +812,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 2,
       "paperId": "65888",
       "title": "Learning to Discover at Test Time",
+      "firstAuthor": "Mert Yuksekgonul",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "scientific_modeling_tool",
@@ -845,6 +847,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 3,
       "paperId": "62240",
       "title": "Revisiting Efficiency–Accuracy Scaling in Mixture-of-Experts Architectures",
+      "firstAuthor": "Venmugil Elango",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "infrastructure_systems",
@@ -879,6 +882,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 4,
       "paperId": "64121",
       "title": "Reinforcement Learning via Self-Distillation",
+      "firstAuthor": "Jonas Hübotter",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "analysis_position",
@@ -913,6 +917,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 5,
       "paperId": "65332",
       "title": "Maximum Likelihood Reinforcement Learning",
+      "firstAuthor": "Fahim Tajwar",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -947,6 +952,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 6,
       "paperId": "61770",
       "title": "AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions",
+      "firstAuthor": "Esteban Real",
       "primaryClass": "infrastructure_systems",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -981,6 +987,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 7,
       "paperId": "65886",
       "title": "Reinforcement Learning with Evolving Rubrics for Deep Research",
+      "firstAuthor": "Rulin Shao",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "infrastructure_systems",
@@ -1015,6 +1022,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 8,
       "paperId": "62611",
       "title": "Rethinking the Trust Region in LLM Reinforcement Learning",
+      "firstAuthor": "Penghui Qi",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -1049,6 +1057,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 9,
       "paperId": "64283",
       "title": "Gromov-Wasserstein at Scale, Beyond Squared Norms",
+      "firstAuthor": "Guillaume Houry",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -1083,6 +1092,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 10,
       "paperId": "63822",
       "title": "Flowers: A Warp Drive for Neural PDE Solvers",
+      "firstAuthor": "Till Muser",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "scientific_modeling_tool"
@@ -1116,6 +1126,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 11,
       "paperId": "65011",
       "title": "Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis",
+      "firstAuthor": "Hila Chefer",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "application_method",
@@ -1150,6 +1161,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 12,
       "paperId": "62669",
       "title": "SWE-ABS: Adversarial Benchmark Strengthening Exposes Inflated Success Rates on Test-based Benchmark",
+      "firstAuthor": "Boxi Yu",
       "primaryClass": "benchmark_dataset",
       "secondaryClasses": [
         "safety_governance_eval",
@@ -1184,6 +1196,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 13,
       "paperId": "60727",
       "title": "Towards Unified Multimodal Pretraining",
+      "firstAuthor": "Shengbang Tong",
       "primaryClass": "analysis_position",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -1218,6 +1231,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 14,
       "paperId": "63255",
       "title": "Probably Approximately Correct Labels",
+      "firstAuthor": "Emmanuel J Candes",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -1252,6 +1266,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 15,
       "paperId": "64605",
       "title": "Prompt Injection as Role Confusion",
+      "firstAuthor": "Charles Ye",
       "primaryClass": "safety_governance_eval",
       "secondaryClasses": [
         "analysis_position",
@@ -1286,6 +1301,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 16,
       "paperId": "62018",
       "title": "Walrus: A Cross-domain Foundation Model for Continuum Dynamics",
+      "firstAuthor": "Michael McCabe",
       "primaryClass": "scientific_modeling_tool",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -1320,6 +1336,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 17,
       "paperId": "65408",
       "title": "Practical and Scalable Hamiltonian Monte Carlo Without the Metropolis Test",
+      "firstAuthor": "Jakob Robnik",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "scientific_modeling_tool",
@@ -1354,6 +1371,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 18,
       "paperId": "64195",
       "title": "SAM Audio: Segment Anything in Audio",
+      "firstAuthor": "Bowen Shi",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "benchmark_dataset",
@@ -1389,6 +1407,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 19,
       "paperId": "62943",
       "title": "Evolution Strategies at the Hyperscale",
+      "firstAuthor": "Bidipta Sarkar",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "infrastructure_systems",
@@ -1423,6 +1442,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 20,
       "paperId": "62675",
       "title": "An Exponential Separation Between Quantum and Quantum-Inspired Classical Algorithms for Linear Systems",
+      "firstAuthor": "Allan Grønlund",
       "primaryClass": "theory",
       "secondaryClasses": [
         "core_ml_algorithm"
@@ -1456,6 +1476,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 21,
       "paperId": "60977",
       "title": "Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing",
+      "firstAuthor": "Anxin Guo",
       "primaryClass": "theory",
       "secondaryClasses": [
         "analysis_position",
@@ -1490,6 +1511,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 22,
       "paperId": "64990",
       "title": "Speculative Sampling For Faster Molecular Dynamics",
+      "firstAuthor": "Arthur Kosmala",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "scientific_modeling_tool",
@@ -1524,6 +1546,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 23,
       "paperId": "65461",
       "title": "RLVE: Scaling Up Reinforcement Learning for Language Models with Adaptive Verifiable Environments",
+      "firstAuthor": "Zhiyuan Zeng",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "infrastructure_systems",
@@ -1558,6 +1581,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 24,
       "paperId": "64766",
       "title": "Meta Flow Maps enable scalable reward alignment",
+      "firstAuthor": "Peter Potaptchik",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -1592,6 +1616,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 25,
       "paperId": "61920",
       "title": "WildCat: Near-Linear Attention in Theory and Practice",
+      "firstAuthor": "Tobias Schröder",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -1626,6 +1651,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 26,
       "paperId": "64269",
       "title": "Model-Preserving Adaptive Rounding",
+      "firstAuthor": "Albert Tseng",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -1660,6 +1686,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 27,
       "paperId": "62479",
       "title": "How to guide your flow: Steering flow maps for rapid test-time alignment",
+      "firstAuthor": "Jerry Huang",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -1694,6 +1721,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 28,
       "paperId": "62989",
       "title": "How much can language models memorize?",
+      "firstAuthor": "John Morris",
       "primaryClass": "analysis_position",
       "secondaryClasses": [
         "theory",
@@ -1728,6 +1756,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 29,
       "paperId": "63503",
       "title": "DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs",
+      "firstAuthor": "Size Zheng",
       "primaryClass": "infrastructure_systems",
       "secondaryClasses": [
         "core_ml_algorithm"
@@ -1761,6 +1790,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 30,
       "paperId": "61737",
       "title": "Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion Models",
+      "firstAuthor": "Shuchen Xue",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -1795,6 +1825,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 31,
       "paperId": "65782",
       "title": "RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization",
+      "firstAuthor": "LIU SONGMING",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "benchmark_dataset",
@@ -1830,6 +1861,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 32,
       "paperId": "65517",
       "title": "Towards Solving the Gilbert-Pollak Conjecture via Large Language Models",
+      "firstAuthor": "Yisi Ke",
       "primaryClass": "scientific_modeling_tool",
       "secondaryClasses": [
         "application_method",
@@ -1864,6 +1896,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 33,
       "paperId": "66613",
       "title": "Why Are Linear RNNs More Parallelizable?",
+      "firstAuthor": "William Merrill",
       "primaryClass": "theory",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -1898,6 +1931,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 34,
       "paperId": "61823",
       "title": "Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State",
+      "firstAuthor": "Nicholas Gao",
       "primaryClass": "scientific_modeling_tool",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -1932,6 +1966,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 35,
       "paperId": "66382",
       "title": "Esoteric Language Models",
+      "firstAuthor": "Subham Sekhar Sahoo",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -1966,6 +2001,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 36,
       "paperId": "65357",
       "title": "Global Plane Waves From Local Gaussians: Periodic Charge Densities in a Blink",
+      "firstAuthor": "Jonas Elsborg",
       "primaryClass": "scientific_modeling_tool",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -2000,6 +2036,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 37,
       "paperId": "61178",
       "title": "Fast KV Compaction via Attention Matching",
+      "firstAuthor": "Adam Zweiger",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "infrastructure_systems"
@@ -2033,6 +2070,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 38,
       "paperId": "64674",
       "title": "Exploration Hacking: LLMs Can Learn to Resist RL Training",
+      "firstAuthor": "Eyon Jang",
       "primaryClass": "safety_governance_eval",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -2067,6 +2105,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 39,
       "paperId": "66733",
       "title": "Pull Requests as a Training Signal for Repo-Level Code Editing",
+      "firstAuthor": "Qinglin Zhu",
       "primaryClass": "benchmark_dataset",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -2102,6 +2141,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 40,
       "paperId": "61895",
       "title": "RePro: Training Language Models to Faithfully Recycle the Web for Pretraining",
+      "firstAuthor": "Zichun Yu",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "infrastructure_systems",
@@ -2136,6 +2176,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 41,
       "paperId": "63606",
       "title": "Deriving Neural Scaling Laws from the Statistics of Natural Language",
+      "firstAuthor": "Francesco Cagnetta",
       "primaryClass": "theory",
       "secondaryClasses": [
         "analysis_position",
@@ -2170,6 +2211,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 42,
       "paperId": "61683",
       "title": "Post-Training with Policy Gradients: Optimality and the Base Model Barrier",
+      "firstAuthor": "Alireza Mousavi-Hosseini",
       "primaryClass": "theory",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -2204,6 +2246,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 43,
       "paperId": "65462",
       "title": "Proximal Decoding: Provably Reducing Copyright Risk for Any Language Model",
+      "firstAuthor": "Jacqueline He",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -2239,6 +2282,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 44,
       "paperId": "65894",
       "title": "Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment",
+      "firstAuthor": "Cameron Tice",
       "primaryClass": "safety_governance_eval",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -2273,6 +2317,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 45,
       "paperId": "66380",
       "title": "The Catastrophic Failure of the k-Means Algorithm in High Dimensions, and How Hartigan's Algorithm Avoids It",
+      "firstAuthor": "Roy Lederman",
       "primaryClass": "theory",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -2307,6 +2352,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 46,
       "paperId": "60987",
       "title": "Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback",
+      "firstAuthor": "Evgeny S. Saveliev",
       "primaryClass": "scientific_modeling_tool",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -2341,6 +2387,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 47,
       "paperId": "65565",
       "title": "Sampling from Your Language Model One Byte at a Time",
+      "firstAuthor": "Jonathan Hayase",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -2375,6 +2422,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 48,
       "paperId": "63428",
       "title": "ThetaEvolve: Test-time Learning on Open Problems",
+      "firstAuthor": "Yiping Wang",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "infrastructure_systems",
@@ -2409,6 +2457,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 49,
       "paperId": "66697",
       "title": "INT vs. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats",
+      "firstAuthor": "Mengzhao Chen",
       "primaryClass": "analysis_position",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -2444,6 +2493,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 50,
       "paperId": "60565",
       "title": "Beyond Pixel Context Windows: Neural World Simulators with Persistent 3D State",
+      "firstAuthor": "Samuel Garcin",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "infrastructure_systems",
@@ -2478,6 +2528,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 51,
       "paperId": "62854",
       "title": "GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training",
+      "firstAuthor": "Haixu Wu",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "scientific_modeling_tool",
@@ -2512,6 +2563,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 52,
       "paperId": "63133",
       "title": "Efficient RL Training for LLMs with Experience Replay",
+      "firstAuthor": "Charles Arnal",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -2546,6 +2598,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 53,
       "paperId": "64480",
       "title": "SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning",
+      "firstAuthor": "Jialong Liu",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "application_method"
@@ -2579,6 +2632,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 54,
       "paperId": "66182",
       "title": "SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?",
+      "firstAuthor": "Udari Sehwag",
       "primaryClass": "benchmark_dataset",
       "secondaryClasses": [
         "analysis_position",
@@ -2613,6 +2667,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 55,
       "paperId": "64188",
       "title": "You Need Better Attention Priors",
+      "firstAuthor": "Elon Litman",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "theory",
@@ -2647,6 +2702,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 56,
       "paperId": "62365",
       "title": "Scalable Simulation-Based Model Inference with Test-Time Complexity Control",
+      "firstAuthor": "Manuel Glöckler",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "scientific_modeling_tool"
@@ -2680,6 +2736,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 57,
       "paperId": "65382",
       "title": "Learning Hamiltonian Flow Maps: Mean Flow Consistency for Large-Timestep Molecular Dynamics",
+      "firstAuthor": "Winfried Ripken",
       "primaryClass": "scientific_modeling_tool",
       "secondaryClasses": [
         "core_ml_algorithm"
@@ -2713,6 +2770,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 58,
       "paperId": "65476",
       "title": "Least-Loaded Expert Parallelism: Load Balancing An Imbalanced Mixture-of-Experts",
+      "firstAuthor": "Xuan-Phi Nguyen",
       "primaryClass": "infrastructure_systems",
       "secondaryClasses": [
         "core_ml_algorithm"
@@ -2746,6 +2804,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 59,
       "paperId": "64785",
       "title": "Estimating Tail Risks in Language Model Output Distributions",
+      "firstAuthor": "Rico Angell",
       "primaryClass": "safety_governance_eval",
       "secondaryClasses": [
         "core_ml_algorithm",
@@ -2780,6 +2839,7 @@ window.ICML_AI_AC_DATA = {
       "rank": 60,
       "paperId": "63916",
       "title": "Recontextualization Mitigates Specification Gaming Without Modifying the Specification",
+      "firstAuthor": "Ariana Azarbal",
       "primaryClass": "core_ml_algorithm",
       "secondaryClasses": [
         "safety_governance_eval",

@@ -1338,6 +1338,7 @@ def build(
                 "rank": row["rank"],
                 "paperId": paper_id,
                 "title": row["title"],
+                "firstAuthor": next(iter(source.get("authors") or []), None),
                 "primaryClass": row["primary_contribution_class"],
                 "secondaryClasses": row.get("secondary_contribution_classes") or [],
                 "whyRankedHere": row["why_ranked_here"],

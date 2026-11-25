@@ -737,6 +737,32 @@
     });
   }
 
+  function renderTopFive() {
+    const list = document.querySelector("#top-five-list");
+    document.querySelector("#top-five-context").textContent =
+      `Selected from ${data.experiment.scoredPapers.toLocaleString()} accepted papers. Authors and human reviews withheld from the judges.`;
+    [...data.papers].sort((a, b) => a.rank - b.rank).slice(0, 5).forEach((paper) => {
+      const item = element("li");
+      const row = paperPanel(paper, "top-five-row", `AI rank ${paper.rank}`);
+      const rank = element("span", "top-five-rank", String(paper.rank).padStart(2, "0"));
+      rank.setAttribute("aria-hidden", "true");
+      const image = document.createElement("img");
+      image.className = "top-five-preview";
+      image.src = `assets/paper-${paper.paperId}.jpg`;
+      image.alt = `Original first page of ${paper.title}`;
+      image.width = 64;
+      image.height = 80;
+      const copy = element("div", "top-five-copy");
+      const meta = element("div", "top-five-meta");
+      if (paper.firstAuthor) meta.append(element("span", "", `${paper.firstAuthor} et al.`));
+      meta.append(element("span", `top-five-tier top-five-tier-${paper.human.tier}`, humanTierLabel(paper.human.tier)));
+      copy.append(element("h2", "top-five-paper-title", paper.title), meta);
+      row.append(rank, image, copy);
+      item.append(row);
+      list.append(item);
+    });
+  }
+
   function renderReviewerScale() {
     const host = document.querySelector("#reviewer-scale");
     const caption = document.querySelector("#reviewer-scale-caption");
@@ -901,7 +927,7 @@
   }
 
   function showView(view, updateHash = true) {
-    const target = view === "awards" ? "awards" : "story";
+    const target = ["awards", "top5"].includes(view) ? view : "story";
     document.querySelectorAll("[data-view-panel]").forEach((panel) => {
       const active = panel.dataset.viewPanel === target;
       panel.hidden = !active;
@@ -930,6 +956,7 @@
   renderMosaic();
   renderMethodDiagram();
   renderTopTen();
+  renderTopFive();
   renderReviewerScale();
   renderCorrelationScale();
   renderRecallByTier();
