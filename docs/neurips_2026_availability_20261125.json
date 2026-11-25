@@ -1,0 +1,381 @@
+{
+  "authenticated": true,
+  "blocked": null,
+  "checked_at": "2026-11-25T19:13:24.798228+00:00",
+  "delay_seconds": 3,
+  "pdf_samples": [
+    {
+      "bytes": 1117913,
+      "camera_ready_invitation": true,
+      "first_ten_page_characters": 37375,
+      "id": "D2HpZYZ8aI",
+      "neurips_footer": true,
+      "pages": 26,
+      "path": "data/pdfs/neurips_2026_probe/D2HpZYZ8aI.pdf",
+      "pdf_field": "/pdf/82373656f2ae129b7febe53461a7cc87b6a849f9.pdf",
+      "sha256": "87dfc6e13b86c3804c07206b2eaed6ce2a16194283c8d8ba0b03f21b6b0673ec",
+      "status": "signature_and_parse_valid",
+      "tier": "NeurIPS 2026 oral",
+      "title": "Coordination Connectivity: Shared Initialization Shapes the Joint-Policy Landscape in MARL",
+      "track": "main"
+    },
+    {
+      "bytes": 5006574,
+      "camera_ready_invitation": true,
+      "first_ten_page_characters": 38849,
+      "id": "XF2UgJwAIj",
+      "neurips_footer": true,
+      "pages": 34,
+      "path": "data/pdfs/neurips_2026_probe/XF2UgJwAIj.pdf",
+      "pdf_field": "/pdf/d8552d5ccf5fe23bd09fd3cbd5e5a61c7604e3ce.pdf",
+      "sha256": "f657f7ca36e7c255d833aaa60adcef67217523d9e5a122883ca3e06c6d74ee52",
+      "status": "signature_and_parse_valid",
+      "tier": "NeurIPS 2026 oral",
+      "title": "CURE: Counterfactual Unsafe-token Re-masking for Diffusion Large Language Model Test-time Alignment",
+      "track": "main"
+    },
+    {
+      "bytes": 1598231,
+      "camera_ready_invitation": true,
+      "first_ten_page_characters": 36813,
+      "id": "pH5jlmaXga",
+      "neurips_footer": true,
+      "pages": 51,
+      "path": "data/pdfs/neurips_2026_probe/pH5jlmaXga.pdf",
+      "pdf_field": "/pdf/1c78640006ae1ca5b636f2d97eac29c53c498a56.pdf",
+      "sha256": "c251cf4c9c0204fd41d586f366f35068c16de220f55b914fb66d0564d6c55f9d",
+      "status": "signature_and_parse_valid",
+      "tier": "NeurIPS 2026 poster",
+      "title": "Coherent Hierarchical Multi-Label Learning to Defer for Medical Imaging",
+      "track": "main"
+    },
+    {
+      "bytes": 713188,
+      "camera_ready_invitation": true,
+      "first_ten_page_characters": 35847,
+      "id": "YfksrufN5t",
+      "neurips_footer": true,
+      "pages": 61,
+      "path": "data/pdfs/neurips_2026_probe/YfksrufN5t.pdf",
+      "pdf_field": "/pdf/c76ae665a8564c0292c2964f6939c657ce01d53a.pdf",
+      "sha256": "671d8a8c9464f703bb017d3ef23f38d9be95ebb8bad3d9ab598a6c8d4d507cf3",
+      "status": "signature_and_parse_valid",
+      "tier": "NeurIPS 2026 poster",
+      "title": "Geometric Velocity Regularity for Flow Matching on Manifold-Concentrated Data",
+      "track": "main"
+    },
+    {
+      "bytes": 2802303,
+      "camera_ready_invitation": true,
+      "first_ten_page_characters": 42267,
+      "id": "GEQl2wCPnq",
+      "neurips_footer": true,
+      "pages": 108,
+      "path": "data/pdfs/neurips_2026_probe/GEQl2wCPnq.pdf",
+      "pdf_field": "/pdf/6ee44a3472a27eee929af61c6fc31ea0fddcc466.pdf",
+      "sha256": "77bd54f9f9b25c7f67fde94bbb85beba107ecb05b56d24744008022ccedc980b",
+      "status": "signature_and_parse_valid",
+      "tier": "NeurIPS 2026 spotlight",
+      "title": "The Long-Run Behavior of Regularized Learning in Games under Uncertainty",
+      "track": "main"
+    },
+    {
+      "bytes": 1193563,
+      "camera_ready_invitation": true,
+      "first_ten_page_characters": 33299,
+      "id": "ztJ2dmj0k5",
+      "neurips_footer": true,
+      "pages": 37,
+      "path": "data/pdfs/neurips_2026_probe/ztJ2dmj0k5.pdf",
+      "pdf_field": "/pdf/64cfe39fdc51b0804840726ffef5b75de7b84a14.pdf",
+      "sha256": "00bd8d8f47577870530f0f9bd858f04210cc75abb9d2f58ad3c110ff9e984fcc",
+      "status": "signature_and_parse_valid",
+      "tier": "NeurIPS 2026 spotlight",
+      "title": "FMMI: Flow Matching Mutual Information Estimation",
+      "track": "main"
+    },
+    {
+      "bytes": 1577711,
+      "camera_ready_invitation": true,
+      "first_ten_page_characters": 38490,
+      "id": "TT3ACb02l4",
+      "neurips_footer": true,
+      "pages": 38,
+      "path": "data/pdfs/neurips_2026_probe/TT3ACb02l4.pdf",
+      "pdf_field": "/pdf/bcc70157d56d9eb54a6d54541405051b13a445cf.pdf",
+      "sha256": "99f802dbf85543e4fcc8556546fa43e6249031eb9e18b96078373c1cfaf94c73",
+      "status": "signature_and_parse_valid",
+      "tier": "NeurIPS 2026 Evaluations and Datasets Track oral",
+      "title": "Offloading Score: Measuring AI Reliance through Counterfactual Workflows",
+      "track": "evaluations_datasets"
+    },
+    {
+      "bytes": 6707454,
+      "camera_ready_invitation": true,
+      "first_ten_page_characters": 36429,
+      "id": "YzcJ3C6DMn",
+      "neurips_footer": true,
+      "pages": 54,
+      "path": "data/pdfs/neurips_2026_probe/YzcJ3C6DMn.pdf",
+      "pdf_field": "/pdf/a6d86b21c59b8c8ce45b95361a5f8f42408c0f4a.pdf",
+      "sha256": "7930bf4d628d8c515c47319027512da1e3c1cf57fc76b21f7abfd7181ab6da48",
+      "status": "signature_and_parse_valid",
+      "tier": "NeurIPS 2026 Evaluations and Datasets Track poster",
+      "title": "RAIL: Rethinking Auditory Intelligence in Large Audio-Language Models with a CHC-Grounded Benchmark",
+      "track": "evaluations_datasets"
+    },
+    {
+      "bytes": 37092050,
+      "camera_ready_invitation": true,
+      "first_ten_page_characters": 37647,
+      "id": "kUdZ3znDlI",
+      "neurips_footer": true,
+      "pages": 85,
+      "path": "data/pdfs/neurips_2026_probe/kUdZ3znDlI.pdf",
+      "pdf_field": "/pdf/74804682c8c2b5c3ad5a06262b75de5e50b752e7.pdf",
+      "sha256": "dcf14a47fc7849386e63b230418694c61f22a55e21df50eefba2e70d86432b9a",
+      "status": "signature_and_parse_valid",
+      "tier": "NeurIPS 2026 Evaluations and Datasets Track spotlight",
+      "title": "StomataBench: Measuring Taxonomic Generalization in Stomatal Detection",
+      "track": "evaluations_datasets"
+    },
+    {
+      "bytes": 273871,
+      "camera_ready_invitation": true,
+      "first_ten_page_characters": 43645,
+      "id": "GgBCKP1QOb",
+      "neurips_footer": true,
+      "pages": 17,
+      "path": "data/pdfs/neurips_2026_probe/GgBCKP1QOb.pdf",
+      "pdf_field": "/pdf/77cf5c41b3063ce4c7efccf0dc28972d3aaa6ca7.pdf",
+      "sha256": "60d3554b9bc631e287d09f220d083afeb05b8355ffd59ff6eeaf05fd36e1badd",
+      "status": "signature_and_parse_valid",
+      "tier": "NeurIPS 2026 Position Paper Track",
+      "title": "Trustworthy AI Must Account for Interactions",
+      "track": "position"
+    },
+    {
+      "bytes": 322726,
+      "camera_ready_invitation": true,
+      "first_ten_page_characters": 45713,
+      "id": "U9dDSCabjP",
+      "neurips_footer": true,
+      "pages": 15,
+      "path": "data/pdfs/neurips_2026_probe/U9dDSCabjP.pdf",
+      "pdf_field": "/pdf/34a892a16457799f098c0da382c97cfe710993ef.pdf",
+      "sha256": "bd955de16ecc4511441a356178be45e80719feb05437c58eb13473eb5ef710c9",
+      "status": "signature_and_parse_valid",
+      "tier": "NeurIPS 2026 Position Paper Track Oral",
+      "title": "We Should Distinguish Unlearning From Untraining",
+      "track": "position"
+    },
+    {
+      "bytes": 8761566,
+      "camera_ready_invitation": true,
+      "first_ten_page_characters": 47438,
+      "id": "GEJEVd3MY5",
+      "neurips_footer": true,
+      "pages": 46,
+      "path": "data/pdfs/neurips_2026_probe/GEJEVd3MY5.pdf",
+      "pdf_field": "/pdf/509cbc4324882ad9b547785ebc2ffda2eb1071a7.pdf",
+      "sha256": "4b72ebb23ead30f5b8ebe1542a12d0325a983921ccbc841c5c50295feeac8d61",
+      "status": "signature_and_parse_valid",
+      "tier": "NeurIPS 2026 Position Paper Track Spotlight",
+      "title": "Stop Using Plausibility as the Criterion for Explainable AI",
+      "track": "position"
+    }
+  ],
+  "retries": 0,
+  "tracks": {
+    "evaluations_datasets": {
+      "contribution_types": {
+        "benchmark_design_and_benchmark_analysis": 375,
+        "data_centric_methods_and_empirical_analyses": 27,
+        "dataset_documentation_auditing_and_responsible_data": 5,
+        "datasets_and_data_resources": 258,
+        "evaluation_methodology_and_metrics": 170,
+        "evaluation_tools_frameworks_and_infrastructure": 93,
+        "human_centered_and_interaction_based_evaluation": 14,
+        "reproducibility_auditing_and_stress_testing_of_evaluations": 28
+      },
+      "no_camera_ready_invitation_ids": [],
+      "no_pdf_ids": [],
+      "openreview_only_ids": [],
+      "records": 970,
+      "unique_ids": 970,
+      "venue_id": "NeurIPS.cc/2026/Evaluations_and_Datasets_Track",
+      "venue_labels": {
+        "NeurIPS 2026 Evaluations and Datasets Track oral": 15,
+        "NeurIPS 2026 Evaluations and Datasets Track poster": 923,
+        "NeurIPS 2026 Evaluations and Datasets Track spotlight": 32
+      },
+      "virtual_only_ids": [],
+      "virtual_unique_forums": 970,
+      "with_camera_ready_invitation": 970,
+      "with_pdf_field": 970
+    },
+    "main": {
+      "contribution_types": {
+        "concept_feasibility": 80,
+        "general": 6426,
+        "negative_results": 19,
+        "theory": 963,
+        "use_inspired": 408
+      },
+      "no_camera_ready_invitation_ids": [],
+      "no_pdf_ids": [],
+      "openreview_only_ids": [],
+      "records": 7896,
+      "unique_ids": 7896,
+      "venue_id": "NeurIPS.cc/2026/Conference",
+      "venue_labels": {
+        "NeurIPS 2026 oral": 113,
+        "NeurIPS 2026 poster": 7492,
+        "NeurIPS 2026 spotlight": 291
+      },
+      "virtual_only_ids": [],
+      "virtual_unique_forums": 7896,
+      "with_camera_ready_invitation": 7896,
+      "with_pdf_field": 7896
+    },
+    "position": {
+      "contribution_types": {
+        "null": 137
+      },
+      "no_camera_ready_invitation_ids": [],
+      "no_pdf_ids": [],
+      "openreview_only_ids": [],
+      "records": 137,
+      "unique_ids": 137,
+      "venue_id": "NeurIPS.cc/2026/Position_Paper_Track",
+      "venue_labels": {
+        "NeurIPS 2026 Position Paper Track": 121,
+        "NeurIPS 2026 Position Paper Track Oral": 5,
+        "NeurIPS 2026 Position Paper Track Spotlight": 11
+      },
+      "virtual_only_ids": [],
+      "virtual_unique_forums": 137,
+      "with_camera_ready_invitation": 137,
+      "with_pdf_field": 137
+    }
+  },
+  "scope": "Public accepted main, Evaluations & Datasets, and Position Paper tracks; not workshops or journal-transfer papers",
+  "anonymous_api_probe": "HTTP 403 interactive challenge; stopped without retry",
+  "authenticated_api_probe": "Normal credential-based login succeeded; public notes only",
+  "virtual_catalog": {
+    "url": "https://neurips.cc/static/virtual/data/neurips-2026-orals-posters.json",
+    "entries": 9275,
+    "unique_core_papers": 9003,
+    "duplicate_core_presentation_entries": 133,
+    "other_track_entries": 139
+  },
+  "parsing": {
+    "main_paper_max_pages": 10,
+    "status_counts": {
+      "ok": 12
+    },
+    "flags": [
+      {
+        "paper_id": "pH5jlmaXga",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "paper_id": "YfksrufN5t",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "paper_id": "GEQl2wCPnq",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "paper_id": "ztJ2dmj0k5",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "paper_id": "GgBCKP1QOb",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "paper_id": "U9dDSCabjP",
+        "flags": [
+          "missing_conclusion"
+        ]
+      }
+    ]
+  },
+  "public_review_samples": {
+    "blocked": null,
+    "query_details": "directReplies",
+    "samples": [
+      {
+        "canonical_overall_available": true,
+        "paper_id": "D2HpZYZ8aI",
+        "public_decision_count": 1,
+        "public_meta_review_count": 1,
+        "public_official_review_count": 3,
+        "public_reply_count": 5,
+        "score_fields": [
+          "confidence",
+          "rating",
+          "significance"
+        ],
+        "track": "main"
+      },
+      {
+        "canonical_overall_available": true,
+        "paper_id": "TT3ACb02l4",
+        "public_decision_count": 1,
+        "public_meta_review_count": 1,
+        "public_official_review_count": 3,
+        "public_reply_count": 5,
+        "score_fields": [
+          "confidence",
+          "rating"
+        ],
+        "track": "evaluations_datasets"
+      },
+      {
+        "canonical_overall_available": false,
+        "paper_id": "GgBCKP1QOb",
+        "public_decision_count": 1,
+        "public_meta_review_count": 1,
+        "public_official_review_count": 4,
+        "public_reply_count": 6,
+        "score_fields": [
+          "confidence",
+          "presentation",
+          "significance"
+        ],
+        "track": "position"
+      }
+    ]
+  },
+  "source_snapshots": [
+    {
+      "path": "data/metadata/neurips_2026_availability_20261125/main_notes.jsonl",
+      "sha256": "c43ec8e85c89b584df7edde450f8a88ec7afee3f57ec227ec7eb81cab1c2b3b7"
+    },
+    {
+      "path": "data/metadata/neurips_2026_availability_20261125/evaluations_datasets_notes.jsonl",
+      "sha256": "a90d0196d7333f52b2a083e306fe86e4b746f02a09af384d4a963c7f38ba2362"
+    },
+    {
+      "path": "data/metadata/neurips_2026_availability_20261125/position_notes.jsonl",
+      "sha256": "dd140e0fc1a6b6f50293f1153446fe95a0de0568d472a6185246f305ee0e52ac"
+    },
+    {
+      "path": "data/metadata/neurips_2026_virtual_probe_20261125.json",
+      "sha256": "4f97672f627fb209876077eb7393eb8a2abbf7577ae02a07cb677bac2e731d68"
+    }
+  ]
+}

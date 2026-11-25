@@ -388,6 +388,7 @@ and potentially gets right.
 - Production preflight: [`docs/production_preflight_2026-07-25.md`](docs/production_preflight_2026-07-25.md)
 - Scoring and model details: [`docs/scoring.md`](docs/scoring.md)
 - Crawling and PDF acquisition: [`docs/crawling.md`](docs/crawling.md)
+- NeurIPS 2026 availability and replication readiness: [`docs/neurips_2026_readiness.md`](docs/neurips_2026_readiness.md)
 - Methodology decision log: [`docs/methodology_decisions.md`](docs/methodology_decisions.md)
 
 ## References
