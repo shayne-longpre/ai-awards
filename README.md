@@ -407,4 +407,8 @@ https://arxiv.org/abs/2504.09737
 
 ## Repository
 
-Repository: [github.com/shayne-longpre/icml-ai-ac](https://github.com/shayne-longpre/icml-ai-ac)
+Repository: [github.com/shayne-longpre/ai-awards](https://github.com/shayne-longpre/ai-awards)
+
+Published report: [research-taste.github.io/ai-as-icml-ac](https://research-taste.github.io/ai-as-icml-ac/)
+
+Collaborator's publication repository: [github.com/research-taste/ai-as-icml-ac](https://github.com/research-taste/ai-as-icml-ac)

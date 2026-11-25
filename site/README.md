@@ -1,5 +1,13 @@
 # Static Report
 
+The published report is at <https://research-taste.github.io/ai-as-icml-ac/>.
+On 2026-11-25, this repository incorporated the final rendering fixes and
+Apache-2.0 license from `research-taste/ai-as-icml-ac` commit
+`7835f5229aff7e6e96ad9e734e2b1754ea5d5538`. Seungone's original fork at
+`d4fb175d2b92b5edd919bb34d08cdb20e8248f1a` had the same file tree as our
+previous committed report. The local Top 5 view and first-author metadata are
+retained as additions; the frozen scientific results are unchanged.
+
 The repository includes the complete frozen static blog: HTML, CSS, JavaScript,
 generated result data, and preview assets. A fresh clone can build a portable,
 ready-to-serve directory and ZIP without downloading experiment artifacts:
